@@ -1,1 +1,9 @@
-# Analysis-of-the-Bushfire-Risk-Score-in-NSW
+# Analysis of the Bushfire Risk Score in NSW
+The analysis focused on assessing bushfire risk scores for neighborhoods in Sydney, utilizing various datasets including census-based data, spatial data, and information from the NSW Rural Fire Service. The mean bushfire risk score across all neighborhoods was found to be 0.494, with a median score of 0.511. Figure 2 illustrates the distribution of bushfire risk across 190 neighborhoods, revealing that areas near the central business district (CBD) tend to have lower risk scores compared to those further away, highlighting the significant impact of location on bushfire risk.
+
+In addition to examining the geographical distribution of bushfire risk, correlation analyses were conducted to explore the relationship between bushfire risk scores and socioeconomic factors such as average monthly rent and median household annual income. The analysis revealed a weak positive correlation (correlation coefficient = 0.258, p-value = 0.0003) between bushfire risk scores and average monthly rent, suggesting that as rent increases, bushfire risk tends to increase slightly. This trend may be attributed to increased rental demand in bushfire-prone areas, particularly noticeable in neighborhoods with lower rent levels.
+
+Conversely, no significant correlation was found between bushfire risk scores and median household annual income (correlation coefficient = -0.026, p-value = 0.724). The scatterplot and regression line displayed no discernible trend or correlation, indicating that neighborhoods with higher income levels do not necessarily consider bushfire risk when choosing where to reside.
+
+Overall, the analysis underscores the importance of location in determining bushfire risk, with neighborhoods closer to the CBD generally experiencing lower risk levels. Additionally, while there is a weak positive correlation between average monthly rent and bushfire risk scores, no significant correlation exists between median household annual income and bushfire risk scores in Sydney neighborhoods.
+
