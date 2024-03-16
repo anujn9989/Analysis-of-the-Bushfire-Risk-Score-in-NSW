@@ -21,4 +21,4 @@ Correlation analysis indicated a weak positive correlation (coefficient = 0.258,
 ### Geospatial Mapping: 
 Creation of a geospatial map of NSW illustrating the distribution of bushfire risk scores across different regions, providing a visual representation of high-risk areas.
 
-<!-- ![an image caption Source: Bushfire risk map of NSW](images/map_visualisation.png) -->
+![an image caption Source: Bushfire risk map of NSW](images/map_visualisation.png)
