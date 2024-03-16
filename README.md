@@ -18,7 +18,7 @@ The analysis revealed a mean bushfire risk score of 0.494 and a median of 0.511 
 ### Correlation Analysis: 
 Correlation analysis indicated a weak positive correlation (coefficient = 0.258, p-value = 0.0003) between risk scores and average monthly rent, while no significant correlation (coefficient = -0.026, p-value = 0.724) was found with median household annual income.
 
-![](images/correlation_analysis.png)
+![Correlation analysis](images/correlation_analysis.png)
 
 ### Geospatial Mapping: 
 Creation of a geospatial map of NSW illustrating the distribution of bushfire risk scores across different regions, providing a visual representation of high-risk areas.
